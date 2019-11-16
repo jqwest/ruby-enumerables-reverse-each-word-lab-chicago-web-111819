@@ -6,7 +6,7 @@
 
 def reverse_each_word(sentence)
 
-string.map{|string|string.reverse}
+sentence.map{|string|string.reverse}
 
 
 
