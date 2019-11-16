@@ -1,6 +1,6 @@
 
 def reverse_each_word(string)
-p string.reverse
+p "string".reverse
 
 
 end
